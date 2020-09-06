@@ -5,3 +5,5 @@ Todo list
 4.wake up
 
 confirm to save and commit
+
+4.study
